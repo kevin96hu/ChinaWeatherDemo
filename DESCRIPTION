@@ -1,0 +1,13 @@
+Package: ChinaWeather
+Title:a visualized package for china weather
+Version: 0.1
+Authors@R: 
+    person(given = "Wankai",
+           family = "Hu",
+           role = c("aut", "cre"),
+           email = "kevinhu@bu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: a visualized package for china weather
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
